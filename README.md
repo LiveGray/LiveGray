@@ -1,6 +1,14 @@
-### Hi there 👋
-- 🔭 I’m currently working on some interesting projects in Flask, including a C2 dashboard, and a reporting tool. 
-- 🌱 I’m currently learning python, rust, and golang at deeper levels. 
-- 👯 I’m looking to collaborate on anything! Seriously I have questions, please! :D 
-- 📫 How to reach me: Wire: @l373
+# :microbe: B73 :microbe:
+### :black_flag: Penetration Tester / Social Engineer
+
+### :computer: Wire: @l373
+Interests | Languages
+------------ | -------------
+Exploit Research & Development | Python2 & Python3
+Reverse Engineering | Rust
+Low-level Programming | C#
+Embedded Programming | VBA & VBS
+Malware Research | Powershell
+Locksport | BASH
+Legerdemain | GO
 
