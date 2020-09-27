@@ -1,5 +1,4 @@
-# :microbe: B73 :microbe:
-### :black_flag: Penetration Tester / Social Engineer
+# :microbe: B73 :microbe: Penetration Tester / Social Engineer 
 
 ### :computer: Wire: @l373
 Interests | Languages
