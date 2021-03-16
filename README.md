@@ -1,9 +1,14 @@
-# 🟥 🟩 Jadekeys 🟩 🟥
+# Hello! 🃏
 
-Interested in collaborating on open-source security, bug bounty's and the like.
+𝗜'𝗺 [Jadekeys](https://github.com/jadekeys)! <b>Noob Developer and Penetration Tester</b>
 
-Please reach out with questions, concerns, ideas, or just to chat!
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jadekeys&show_icons=true&hide_border=true">
 
-💻 @jadekeys - Discord | Wire | Telegram
+Interested in Bug Bounties, Open Source Collaboration, and all things Security. 
+<br><br>
+Please clone/fork projects, raise issues and submit PRs if you think something could be better. Posting soon 🖤💻 
+
+@jadekeys - Discord | Wire | Telegram
+
 
 
