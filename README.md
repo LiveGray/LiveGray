@@ -2,7 +2,9 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=jadekeys&count_private=true&show_icons=true&theme=onedark"></p>
 
-𝗜'𝗺 [Jadekeys](https://github.com/jadekeys)! <b>Noob Developer and Penetration Tester</b> 
+𝗜'𝗺 [Jadekeys](https://github.com/jadekeys)! 
+<br>
+<b>Penetration Tester | Developer</b> 
 <br>
 @jadekeys - Discord | Wire | Telegram
 
