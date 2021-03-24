@@ -13,8 +13,6 @@ Interested in Bug Bounties, Open Source Collaboration, and all things Security.
 Currently exploring multiple languages for their offensive tooling capabilities
 including Nim, Rust, V, and GO.
 
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadekeys&layout=compact&theme=onedark&langs_count=10">
 
 
 
