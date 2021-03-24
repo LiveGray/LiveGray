@@ -13,9 +13,9 @@ including Nim, Rust, V, and GO for offensive purposes.
 Please clone/fork projects, raise issues and submit PRs if you think something could be better. Posting soon 🖤💻 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadekeys&layout=compact&theme=onedark&langs_count=10"></p>
-
+<br>
 @jadekeys - Discord | Wire | Telegram
-
+<br>
 ![](https://komarev.com/ghpvc/?username=jadekeys)
 
 
