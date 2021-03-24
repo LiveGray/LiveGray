@@ -1,10 +1,8 @@
 # Hello! 🃏
 
-𝗜'𝗺 [Jadekeys](https://github.com/jadekeys)! <b>Noob Developer and Penetration Tester</b>
-
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=jadekeys&count_private=true&show_icons=true&theme=onedark"></p>
 
-
+𝗜'𝗺 [Jadekeys](https://github.com/jadekeys)! <b>Noob Developer and Penetration Tester</b>
 
 
 Interested in Bug Bounties, Open Source Collaboration, and all things Security. 
