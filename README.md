@@ -1,12 +1,12 @@
-# Hello! 🃏 ![](https://komarev.com/ghpvc/?username=jadekeys)
+# Hello! 🃏 ![](https://komarev.com/ghpvc/?username=rustrose)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=jadekeys&count_private=true&show_icons=true&theme=onedark"></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rustrose&count_private=true&show_icons=true&theme=onedark"></p>
 
-𝗜'𝗺 [Jadekeys](https://github.com/jadekeys)! 
+𝗜'𝗺 [rustrose](https://github.com/rustrose)! 
 <br>
 <b>Penetration Tester | Developer</b> 
 <br>
-@jadekeys - Discord | Wire | Telegram
+
 
 Interested in Bug Bounties, Open Source Collaboration, and all things Security. 
 
