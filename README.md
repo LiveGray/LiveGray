@@ -8,7 +8,7 @@
 <br>
 
 
-Interested in Bug Bounties, Open Source Collaboration, and all things Security. 
+Interested in bug bounties, open source collaboration, and all things Security. 
 
 Currently exploring multiple languages for their offensive tooling capabilities
 including Nim, Rust, V, and GO.
