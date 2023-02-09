@@ -1,10 +1,10 @@
-# Hello! 🃏 ![](https://komarev.com/ghpvc/?username=rustrose)
+# Hello! 🃏 ![](https://komarev.com/ghpvc/?username=dom-sec)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rustrose&count_private=true&show_icons=true&theme=onedark"></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dom-sec&count_private=true&show_icons=true&theme=onedark"></p>
 
-𝗜'𝗺 [rustrose](https://github.com/rustrose)! 
+𝗜'𝗺 [Dom](https://github.com/dom-sec)! 
 <br>
-<b>Penetration Tester | Developer</b> 
+<b>Security Researcher | Locksport Enthusiast | Digital Marketer</b> 
 <br>
 
 
