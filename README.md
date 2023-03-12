@@ -2,13 +2,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Friend...;Red+Team+Operator;Offensive+Developer&center=true&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Friend...;Red+Team+Operator;Ethical+Hacker&center=true&size=40">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.linkedin.com/in/domsec/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/DomSecRocks" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://twitter.com/domsecrocks" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
   <code><a href="https://domsec.rocks" title="Personal Website"><img width="22" src="images/website.svg"> Website</a></code>
   <code><a href="https://discord.gg/HexRays" title="HexRays Discord"><img width="22" src="images/discord2.svg"> Discord</a></code>
