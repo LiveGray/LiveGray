@@ -17,7 +17,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Dom *******, Principal Security Consultant, Red Team Operator, and Aspiring Offensive Developer40
+  Hi, I'm Dom *******, Principal Security Consultant, Red Team Operator, and Aspiring Offensive Developer.
   <br>
   <br>
   🔬 I'm currently studying for offensive certificates including the OSCP, CRTO, and the OSWE.
