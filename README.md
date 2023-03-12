@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Friend...;This+is+Dom+Sec....;Principal+Security+Consultant;Red+Team+Operator;Aspiring+Offensive+Developer&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Friend...;Principal+Security+Consultant;Red+Team+Operator;Aspiring+Offensive+Developer&center=true&size=40">
   </a>
 </h1>
 
@@ -11,13 +11,13 @@
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://twitter.com/domsecrocks" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
   <code><a href="https://domsec.rocks" title="Personal Website"><img width="22" src="images/website.svg"> Website</a></code>
-  <code><a href="https://discord.gg/HexRays" title="HexRays Discord"><img width="22" src="images/discord.svg"> Discord</a></code>
+  <code><a href="https://discord.gg/HexRays" title="HexRays Discord"><img width="22" src="images/discord2.svg"> Discord</a></code>
   <code><a href="https://app.hackthebox.com/profile/49959" title="Hack The Box Profile"><img width="22" src="images/htb.svg"> Hack The Box</a></code>
 
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Dom *******, Principal Security Consultant, Red Team Operator, and Aspiring Offensive Developer from the US.
+  Hi, I'm Dom *******, Principal Security Consultant, Red Team Operator, and Aspiring Offensive Developer40
   <br>
   <br>
   🔬 I'm currently studying for offensive certificates including the OSCP, CRTO, and the OSWE.
@@ -60,11 +60,9 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Rust" height="25" src="images/rust.svg"></code>
+  <code><img title="Rust" height="25" src="images/rust2.svg"></code>
   <code><img title="Ansible" height="25" src="images/ansible.svg"></code>
 </p>
-<hr>
-
 <hr>
 <h2 align="center">🔥 Tools & Abilities 🔥</h2>
 <br>
@@ -79,7 +77,7 @@
   <code><img title="NPM" height="25" src="images/npm.svg"></code>
   <code><img title="AWS" height="25" src="images/aws.svg"></code>
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="Kali Linux" height="25" src="images/kali.svg"></code>
+  <code><img title="Arch Linux" height="25" src="images/arch.svg"></code>
   <code><img title="Linux" height="25" src="images/linux.svg"></code>
   <code><img title="Vim" height="25" src="images/vim.svg"></code>
 
