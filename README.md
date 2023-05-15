@@ -21,7 +21,7 @@
   <br>
   📚 I’m currently learning RUST and Nim for offensive tooling. Hoping to build my first C2 by then end of the year.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/dom-sec/dom-sec/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/LiveGray/LiveGray/issues" title="Issues">Here</a>
   <br>
 </p>
 
