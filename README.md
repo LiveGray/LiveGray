@@ -6,15 +6,6 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/domsec/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/DomSecRocks" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://twitter.com/domsecrocks" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://domsec.rocks" title="Personal Website"><img width="22" src="images/website.svg"> Website</a></code>
-  <code><a href="https://discord.gg/HexRays" title="HexRays Discord"><img width="22" src="images/discord2.svg"> Discord</a></code>
-  <code><a href="https://app.hackthebox.com/profile/49959" title="Hack The Box Profile"><img width="22" src="images/htb.svg"> Hack The Box</a></code>
-
-</h5>
 <br>
 <p align="center">
   Hi, I'm Dom *******, Principal Security Consultant, Red Team Operator, and Aspiring Offensive Developer.
