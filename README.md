@@ -23,7 +23,6 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/dom-sec/dom-sec/issues" title="Issues">Here</a>
   <br>
-  📫 Connect with me: <a href="mailto: domsecrocks@protonmail.com">domsecrocks@protonmail.com</a>
 </p>
 
 <hr>
